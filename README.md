@@ -8,6 +8,16 @@ I'm an engineer turned product leader with a strong interest in AI-native produc
 
 I care about **what we build, why it matters, whether customers find it useful, and how it creates sustainable value**. My background spans hands-on software engineering and product leadership, from distributed infrastructure and developer platforms to regulated financial products.
 
+## Featured: AI-Assisted Trading & Research
+
+**Independent product project · In development**
+
+Translating user research into a trading tool that reduces continuous monitoring while preserving user control. I own MVP priorities and hands-on AI-assisted development, separating rules-based execution from AI research and defining evidence requirements before strategy changes.
+
+The case study documents product tradeoffs, agent evaluations, and ongoing learnings.
+
+**[Explore the case study →](https://github.com/ppoornima/PM-AI/tree/main/case-studies/spy-decision-system)**
+
 ## 🧠 Questions I'm exploring
 
 ### Product judgment when building gets easier
