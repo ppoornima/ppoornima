@@ -1,84 +1,46 @@
-# Hi, I'm Poornima 👋
+# Poornima Peddinti
+### Product leadership | Fintech, platforms & AI
 
-### AI Product Builder | Engineer → Product Leader
+I'm a Senior Product Manager and former software engineer with 11+ years at PayPal across consumer credit, developer platforms and distributed systems. I connect user research, product strategy and engineering depth to decide what to build, where automation helps, and what evidence should guide the next investment.
 
-**Fintech & Financial Intelligence · Distributed Systems · Developer Platforms · Agentic AI**
+Alongside my professional work, I build and evaluate AI products hands-on. I own problem discovery, MVP scope, product decisions and evaluation requirements, and drive implementation with AI-assisted development.
 
-I'm an engineer turned product leader with a strong interest in AI-native products, financial intelligence, and complex systems. I enjoy understanding customer problems, identifying opportunities, and connecting product judgment with engineering depth to create useful, commercially viable solutions.
+**[Explore my featured case study](https://github.com/ppoornima/PM-AI/tree/main/case-studies/spy-decision-system)** · [Product portfolio](https://github.com/ppoornima/PM-AI) · [Connect on LinkedIn](https://www.linkedin.com/in/poornimapeddinti/)
 
-I care about **what we build, why it matters, whether customers find it useful, and how it creates sustainable value**. My background spans hands-on software engineering and product leadership, from distributed infrastructure and developer platforms to regulated financial products.
+## Featured project: AI-assisted trading & research
+**Independent project · In development · Ongoing experiments and learnings**
 
-## 🧠 Questions I'm exploring
+How can a trading tool follow an approved plan without continuous screen monitoring—and help its user learn from outcomes without surrendering control?
 
-### Product judgment when building gets easier
+User interviews, trading-community research and my own experience shaped this project. I am extending an existing trading application with an AI research agent that investigates recorded outcomes, selects analysis tools and identifies missing evidence.
 
-AI is reducing the effort needed to prototype and build software. That makes choosing the *right* problem even more important.
+Three decisions show how I approach AI product development:
 
-- Which customer problems are worth solving, and why now?
-- Where does AI create meaningfully better outcomes than existing approaches?
-- When should a workflow be automated, augmented, or kept human-led?
-- How should we measure usefulness, trust, adoption, and willingness to pay?
-- What makes the economics of an AI product sustainable?
-
-### Agentic AI that delivers real value
-
-I'm learning about agent architectures, tool use, orchestration, evaluations, feedback loops, and human oversight. I'm particularly interested in the tradeoffs between **capability, reliability, latency, cost, and customer value**.
-
-### Complex systems and their failure modes
-
-Working on distributed infrastructure taught me to think about service boundaries, asynchronous communication, observability, recovery, and scale. I'm exploring how these ideas apply—and where they fall short—in AI-native systems.
-
-### Financial intelligence and decision support
-
-I'm exploring trading, investment research, market data, and financial analytics, informed by my experience with consumer credit and payments. Financial decisions make accuracy, risk, incentives, and explainability especially consequential.
-
-## 🧭 Areas of expertise & exploration
-
-| Domain | Focus |
+| Product decision | Why it matters |
 | --- | --- |
-| **AI & Agentic Systems** | Learning and experimenting with agent architectures, orchestration, evaluation, and feedback loops |
-| **Financial Intelligence** | Exploring market data, trading, investment analysis, and AI-assisted financial decision-making |
-| **Fintech & Consumer Lending** | Professional experience in BNPL, credit products, checkout growth, lending regulation, and financial services |
-| **Distributed Systems & Developer Platforms** | Engineering experience in messaging infrastructure, tracing, observability, configuration, and developer tooling |
-| **Product Sense & Judgment** | Customer problems, product strategy, experimentation, prioritization, monetization, and business outcomes |
+| Separate rules-based execution from AI-led research | Let the agent investigate while keeping trading authority explicit. |
+| Use reproducible calculations and evaluate evidence quality | A persuasive explanation is not enough to justify a strategy change. |
+| Expand autonomy only as evidence supports it | Keep research advisory today and require human approval for live release. |
 
-## 🏗 Systems I've worked on
+The case study documents discovery, scope, agent behavior, evaluation results and the roadmap toward controlled live use. Current validation includes paper trading; improved profitability and reduced supervision remain outcomes to demonstrate.
 
-My professional experience spans engineering and product leadership, including 11 years at PayPal. In reverse chronological order:
+**[Read the case study →](https://github.com/ppoornima/PM-AI/tree/main/case-studies/spy-decision-system)**  
+[See an agent investigation](https://github.com/ppoornima/PM-AI/blob/main/case-studies/spy-decision-system/agent-walkthrough.md) · [Explore evaluations](https://github.com/ppoornima/PM-AI/blob/main/case-studies/spy-decision-system/evaluation.md)
 
-**Consumer Credit & Buy Now, Pay Later (BNPL)**  
-Led work across checkout conversion, credit eligibility, identity verification, lending compliance, and international growth—balancing customer experience, risk, and commercial outcomes.
+## Experience I bring
 
-**Developer Experience & Platform Products**  
-Worked on developer-facing tools and shared infrastructure to reduce friction, improve productivity, and scale reusable capabilities.
+- **Fintech and consumer credit:** product work across BNPL, checkout conversion, credit eligibility, identity verification and international expansion—balancing customer needs, risk and business outcomes.
+- **Developer platforms:** product and engineering experience in self-service tools, APIs, configuration management and observability.
+- **Complex systems:** hands-on engineering foundations in distributed messaging, reliability and recovery that inform how I reason about agent behavior and failure.
 
-**Distributed Messaging Infrastructure**  
-Built and evolved messaging capabilities, including reliability mechanisms, failure recovery workflows, and abstractions for application developers.
+## Hands-on AI skills
 
-**Distributed Configuration & Service Infrastructure**  
-Worked on internal platform capabilities supporting distributed applications, configuration management, and engineering workflows.
+AI-assisted prototyping and development · Agent orchestration and tool use · LLM evaluation · Deterministic analysis · Experiment memory · Human-in-the-loop design
 
-**Distributed Tracing & Observability**  
-Worked on the lack of end-to-end transaction visibility across distributed services, which shaped how I think about understanding system behavior and diagnosing failures across boundaries.
+My current project uses OpenAI function calling for model-directed research, with a separate LangGraph workflow for scheduled analysis. The portfolio distinguishes implemented capabilities, verified results and planned work.
 
-## 🎯 How I approach product problems
+## Connect
 
-**Customer problem → Opportunity → Product hypothesis → System design → Experiment → Measured value → Iterate**
+I'm interested in product leadership conversations across AI agents, fintech and developer platforms.
 
-I try to connect five decisions:
-
-1. **Customer value:** What problem matters, and for whom?
-2. **Product opportunity:** Why solve it now, and what alternatives exist?
-3. **Business viability:** How will the product create, capture, or protect value?
-4. **Technical judgment:** What's the simplest architecture that meets the real requirements?
-5. **Evidence:** What would prove it works—and deserves more investment?
-
-## 📚 What this profile will become
-
-This GitHub is a place for my technical exploration and original product thinking. As projects mature, I'll share working prototypes, architectural decisions, evaluations, tradeoffs, and lessons learned.
-
-I want the work to speak for itself—**not just what I built, but why I chose the problem and what I learned**.
-
-## 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/poornimapeddinti/) · [GitHub](https://github.com/ppoornima)
+**[Connect on LinkedIn](https://www.linkedin.com/in/poornimapeddinti/)** · [View my product portfolio](https://github.com/ppoornima/PM-AI)
