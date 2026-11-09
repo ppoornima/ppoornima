@@ -8,6 +8,16 @@ I'm an engineer turned product leader with a strong interest in AI-native produc
 
 I care about **what we build, why it matters, whether customers find it useful, and how it creates sustainable value**. My background spans hands-on software engineering and product leadership, from distributed infrastructure and developer platforms to regulated financial products.
 
+## 🧭 Expertise, exploration & selected work
+
+| Area | Experience and focus | Explore |
+| --- | --- | --- |
+| **Fintech & Consumer Lending** | Professional experience in BNPL, credit products, checkout growth, lending regulation, financial services, and international expansion | [Fintech background ↓](#consumer-experience)<br>Experience on this page |
+| **Distributed Systems & Developer Platforms** | Engineering experience in messaging infrastructure, tracing, observability, configuration, and developer tooling | [Platform background ↓](#developer-experience)<br>Experience on this page |
+| **AI & Agentic Systems** | Learning and experimenting with agent architectures, orchestration, evaluation, feedback loops, and human oversight | [AI-assisted research case study ↗](https://github.com/ppoornima/PM-AI/tree/main/case-studies/spy-decision-system)<br>Published case study |
+| **Financial Intelligence** | Exploring market data, trading tools, investment analysis, and AI-assisted financial decision-making | [Trading & Investment Tools ↗](https://github.com/ppoornima/PM-AI/tree/main/case-studies/trading-investment-tools)<br>Overview available · case study in preparation |
+| **Product Sense & Judgment** | Customer problems, product strategy, experimentation, prioritization, monetization, and business outcomes | [My product approach ↓](#product-approach)<br>Approach on this page |
+
 ## Featured: AI-Assisted Trading & Research
 
 **Independent product project · In development**
@@ -42,22 +52,16 @@ Working on distributed infrastructure taught me to think about service boundarie
 
 I'm exploring trading, investment research, market data, and financial analytics, informed by my experience with consumer credit and payments. Financial decisions make accuracy, risk, incentives, and explainability especially consequential.
 
-## 🧭 Areas of expertise & exploration
-
-| Domain | Focus |
-| --- | --- |
-| **AI & Agentic Systems** | Learning and experimenting with agent architectures, orchestration, evaluation, and feedback loops |
-| **Financial Intelligence** | Exploring market data, trading, investment analysis, and AI-assisted financial decision-making |
-| **Fintech & Consumer Lending** | Professional experience in BNPL, credit products, checkout growth, lending regulation, and financial services |
-| **Distributed Systems & Developer Platforms** | Engineering experience in messaging infrastructure, tracing, observability, configuration, and developer tooling |
-| **Product Sense & Judgment** | Customer problems, product strategy, experimentation, prioritization, monetization, and business outcomes |
-
 ## 🏗 Systems I've worked on
 
 My professional experience spans engineering and product leadership, including 11 years at PayPal. In reverse chronological order:
 
+<a name="consumer-experience"></a>
+
 **Consumer Credit & Buy Now, Pay Later (BNPL)**  
 Led work across checkout conversion, credit eligibility, identity verification, lending compliance, and international growth—balancing customer experience, risk, and commercial outcomes.
+
+<a name="developer-experience"></a>
 
 **Developer Experience & Platform Products**  
 Worked on developer-facing tools and shared infrastructure to reduce friction, improve productivity, and scale reusable capabilities.
@@ -71,6 +75,8 @@ Worked on internal platform capabilities supporting distributed applications, co
 **Distributed Tracing & Observability**  
 Worked on the lack of end-to-end transaction visibility across distributed services, which shaped how I think about understanding system behavior and diagnosing failures across boundaries.
 
+<a name="product-approach"></a>
+
 ## 🎯 How I approach product problems
 
 **Customer problem → Opportunity → Product hypothesis → System design → Experiment → Measured value → Iterate**
@@ -83,11 +89,13 @@ I try to connect five decisions:
 4. **Technical judgment:** What's the simplest architecture that meets the real requirements?
 5. **Evidence:** What would prove it works—and deserves more investment?
 
-## 📚 What this profile will become
+## 📚 What I’m building and learning
 
-This GitHub is a place for my technical exploration and original product thinking. As projects mature, I'll share working prototypes, architectural decisions, evaluations, tradeoffs, and lessons learned.
+I use this GitHub to turn problems I care about into products—and make the decisions behind them visible. I combine product judgment, engineering experience, and hands-on AI-assisted development to explore opportunities, build prototypes, and evaluate whether they solve a meaningful problem.
 
-I want the work to speak for itself—**not just what I built, but why I chose the problem and what I learned**.
+I approach independent projects with an entrepreneurial mindset: who needs this, what alternatives do they use, what would make them switch or pay, and can the product be delivered sustainably? Those questions shape what I prioritize, what I test, and what I choose not to build.
+
+I share product decisions, architecture, evaluations, tradeoffs, and lessons learned—including what is implemented, what remains a hypothesis, and what evidence would justify further investment.
 
 ## 🤝 Connect
 
