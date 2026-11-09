@@ -15,7 +15,7 @@ I care about **what we build, why it matters, whether customers find it useful, 
 | **Fintech & Consumer Lending** | Professional experience in BNPL, credit products, checkout growth, lending regulation, financial services, and international expansion | [Fintech background ↓](#consumer-experience)<br>Experience on this page |
 | **Distributed Systems & Developer Platforms** | Engineering experience in messaging infrastructure, tracing, observability, configuration, and developer tooling | [Platform background ↓](#developer-experience)<br>Experience on this page |
 | **AI & Agentic Systems** | Learning and experimenting with agent architectures, orchestration, evaluation, feedback loops, and human oversight | [AI-assisted research case study ↗](https://github.com/ppoornima/PM-AI/tree/main/case-studies/spy-decision-system)<br>Published case study |
-| **Financial Intelligence** | Exploring market data, trading tools, investment analysis, and AI-assisted financial decision-making | [Trading & Investment Tools ↗](https://github.com/ppoornima/PM-AI/tree/main/case-studies/trading-investment-tools)<br>Overview available · case study in preparation |
+| **Financial Intelligence** | Exploring market data, trading tools, investment analysis, and AI-assisted financial decision-making | [Trading & Investment Tools ↗](https://github.com/ppoornima/PM-AI/tree/main/case-studies/trading-investment-tools)<br>Published case study |
 | **Product Sense & Judgment** | Customer problems, product strategy, experimentation, prioritization, monetization, and business outcomes | [My product approach ↓](#product-approach)<br>Approach on this page |
 
 ## Featured: AI-Assisted Trading & Research
