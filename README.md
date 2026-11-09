@@ -1,6 +1,6 @@
 # Hi, I'm Poornima 👋
 
-### AI Product Builder | Engineer → Product Leader
+### AI Product Builder | Engineer → Product
 
 **Fintech & Financial Intelligence · Distributed Systems · Developer Platforms · Agentic AI**
 
